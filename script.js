@@ -23,7 +23,7 @@ let now_playing = document.querySelector('.now-playing');
   
  const music_list = [ 
      { 
-         img : 'Imágenes/IMG-9899.webp', 
+         img : 'Imágenes/IMG_9902.jpeg', 
          name : 'NI BIEN NI MAL', 
          artist : 'Bad Bunny', 
          music : 'Musica/NI BIEN NI MAL.mp3' 
