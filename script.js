@@ -22,10 +22,10 @@ let now_playing = document.querySelector('.now-playing');
   
  const music_list = [ 
      { 
-         img : 'images/stay.png', 
+         img : 'Imágenes/IMG-9899.jpeg', 
          name : 'Stay', 
-         artist : 'The Kid LAROI, Justin Bieber', 
-         music : 'music/stay.mp3' 
+         artist : 'Justin Bieber', 
+         music : 'Musica/x.mp3' 
      }, 
      { 
          img : 'images/fallingdown.jpg', 
