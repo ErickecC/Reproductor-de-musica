@@ -32,7 +32,7 @@ let now_playing = document.querySelector('.now-playing');
          img : 'imágenes/IMG-9899.webp', 
          name : 'Falling Down', 
          artist : 'Bad Bunny', 
-         music : 'music/NI BIEN NI MAL.mp3' 
+         music : 'Musica/NI BIEN NI MAL.mp3' 
      }, 
      { 
          img : 'images/faded.png', 
