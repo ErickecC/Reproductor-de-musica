@@ -23,9 +23,9 @@ let now_playing = document.querySelector('.now-playing');
   
  const music_list = [ 
      { 
-         img : 'images/stay.png', 
+         img : 'Imagenes/stay.png', 
          name : 'Stay', 
-         artist : 'The Kid LAROI, Justin Bieber', 
+         artist : 'The Kid LAROI, Bad Bunny', 
          music : 'Musica/NI BIEN NI MAL.mp3' 
      }, 
      { 
