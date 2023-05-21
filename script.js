@@ -28,10 +28,10 @@ let now_playing = document.querySelector('.now-playing');
          music : 'Musica/NI BIEN NI MAL.mp3' 
      }, 
      { 
-         img : 'images/fallingdown.jpg', 
-         name : 'Falling Down', 
-         artist : 'Wid Cards', 
-         music : 'music/fallingdown.mp3' 
+         img : 'images/IMG-9902.jpeg', 
+         name : 'SOLO DE MÍ', 
+         artist : 'Bad Bunny', 
+         music : 'music/SOLO DE MÍ.mp3' 
      }, 
      { 
          img : 'images/faded.png', 
