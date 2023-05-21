@@ -30,9 +30,9 @@ let now_playing = document.querySelector('.now-playing');
      }, 
      { 
          img : 'Imágenes/IMG-9899.webp', 
-         name : 'Falling Down', 
+         name : 'SOLO DE MÍ', 
          artist : 'Bad Bunny', 
-         music : 'Musica/NI BIEN NI MAL.mp3' 
+         music : 'Musica/SOLO DE MÍ.mp3' 
      }, 
      { 
          img : 'images/faded.png', 
