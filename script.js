@@ -1,4 +1,3 @@
-
 let now_playing = document.querySelector('.now-playing'); 
  let track_art = document.querySelector('.track-art'); 
  let track_name = document.querySelector('.track-name'); 
@@ -23,16 +22,16 @@ let now_playing = document.querySelector('.now-playing');
   
  const music_list = [ 
      { 
-         img : 'Imágenes/IMG_9902.jpeg', 
-         name : 'NI BIEN NI MAL', 
-         artist : 'Bad Bunny', 
-         music : 'Musica/NI BIEN NI MAL.mp3' 
+         img : 'images/stay.png', 
+         name : 'Stay', 
+         artist : 'The Kid LAROI, Justin Bieber', 
+         music : 'music/stay.mp3' 
      }, 
      { 
-         img : 'Imágenes/IMG-9902.jpeg', 
-         name : 'SOLO DE MÍ', 
-         artist : 'Bad Bunny', 
-         music : 'Musica/SOLO DE MÍ.mp3' 
+         img : 'images/fallingdown.jpg', 
+         name : 'Falling Down', 
+         artist : 'Wid Cards', 
+         music : 'music/fallingdown.mp3' 
      }, 
      { 
          img : 'images/faded.png', 
@@ -81,10 +80,6 @@ let now_playing = document.querySelector('.now-playing');
          return a; 
      } 
      let Color1 = populate('#'); 
-     let Color2 = populate('#'); 
-     var angle = 'to right'; 
-  
-    let Color1 = populate('#'); 
      let Color2 = populate('#'); 
      var angle = 'to right'; 
   
