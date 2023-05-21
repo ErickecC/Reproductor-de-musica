@@ -84,9 +84,7 @@ let now_playing = document.querySelector('.now-playing');
      let Color2 = populate('#'); 
      var angle = 'to right'; 
   
-     let gradient = 'linear-gradient(' + angle + ',' + Color1 + ', ' + Color2 + ")"; 
-     document.body.style.background = gradient; 
- } 
+ 
  function reset(){ 
      curr_time.textContent = "00:00"; 
      total_duration.textContent = "00:00"; 
