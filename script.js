@@ -23,8 +23,8 @@ let now_playing = document.querySelector('.now-playing');
   
  const music_list = [ 
      { 
-         img : 'Imagenes/stay.png', 
-         name : 'Stay', 
+         img : 'Imágenes/IMG-9899.webp', 
+         name : 'NI BIEN NI MAL', 
          artist : 'The Kid LAROI, Bad Bunny', 
          music : 'Musica/NI BIEN NI MAL.mp3' 
      }, 
