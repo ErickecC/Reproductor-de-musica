@@ -23,9 +23,9 @@ let now_playing = document.querySelector('.now-playing');
  const music_list = [ 
      { 
          img : 'Imágenes/IMG-9899.jpeg', 
-         name : 'Stay', 
-         artist : 'Justin Bieber', 
-         music : 'Musica/x.mp3' 
+         name : 'NI BIEN NI MAL', 
+         artist : 'Bad Bunny', 
+         music : 'Musica/NI BIEN NI MAL.mp3' 
      }, 
      { 
          img : 'images/fallingdown.jpg', 
