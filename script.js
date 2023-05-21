@@ -25,7 +25,7 @@ let now_playing = document.querySelector('.now-playing');
      { 
          img : 'Imágenes/IMG-9899.webp', 
          name : 'NI BIEN NI MAL', 
-         artist : 'The Kid LAROI, Bad Bunny', 
+         artist : 'Bad Bunny', 
          music : 'Musica/NI BIEN NI MAL.mp3' 
      }, 
      { 
