@@ -28,10 +28,10 @@ let now_playing = document.querySelector('.now-playing');
          music : 'Musica/NI BIEN NI MAL.mp3' 
      }, 
      { 
-         img : 'images/IMG-9902.jpeg', 
+         img : 'Imágenes/IMG-9902.jpeg', 
          name : 'SOLO DE MÍ', 
          artist : 'Bad Bunny', 
-         music : 'music/SOLO DE MÍ.mp3' 
+         music : 'Musica/SOLO DE MÍ.mp3' 
      }, 
      { 
          img : 'images/faded.png', 
