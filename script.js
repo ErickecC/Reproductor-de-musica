@@ -44,7 +44,14 @@ let now_playing = document.querySelector('.now-playing');
          name : 'Rather Be', 
          artist : 'Clean Bandit', 
          music : 'music/Rather Be.mp3' 
-     } 
+     },
+     {
+         img : 'images/faded.png', 
+         name : 'Faded', 
+         artist : 'Alan Walker', 
+         music : 'music/Faded.mp3' 
+     }, 
+     { 
  ]; 
   
  loadTrack(track_index); 
